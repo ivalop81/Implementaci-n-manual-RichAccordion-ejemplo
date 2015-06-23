@@ -140,7 +140,7 @@
 
 </head>
 <body>
-<h1 id="h101">Alta carnaza!</h1>
+<h1 id="h101">Person Manager</h1>
 <div id="accordion">
   <h3>Formulario de ingreso</h3>
   <div>
@@ -261,6 +261,6 @@
     </form> 
   </div>
 </div>
-<p id="p01">Todos los derechos reservados 2015</p>        
+<p id="p01">Universidad Católica - 2015</p>        
 </body>
 </html>
